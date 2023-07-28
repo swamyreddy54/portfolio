@@ -36,17 +36,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Aditya understood our business needs and created a stunning Wordpress website that increased our online visibility and engagement. He is attentive, efficient and highly skilled. We highly recommend him for all your webdesign needs.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
-    company: "Zoozle",
+    company: "Meta",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Best webdesigner I've worked with. He is highly creative, responsive and attentive to our needs. He provided excellent suggestions and delivered a beautiful website that perfectly represents our brand. If you need a website, just talk to him.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
-    company: "Dooble.io",
+    company: "SpaceX",
   },
 ];
 
