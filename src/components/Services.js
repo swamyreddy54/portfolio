@@ -21,7 +21,7 @@ export default function Services() {
                   <span className="flex-grow flex flex-col pl-4">
                     <span className="title-font font-medium text-xl text-gray-300 tracking-wide">
                       {services.title}
-                    </span>
+                    </span> 
                   </span>
                 </div>               
               </div>

@@ -36,7 +36,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Aditya understood our business needs and created a stunning Wordpress website that increased our online visibility and engagement. He is attentive, efficient and highly skilled. We highly recommend him for all your webdesign needs.",
+      "Swamy understood our business needs and created a stunning e-commerce website that increased our online visibility and engagement. He is attentive, efficient and highly skilled. We highly recommend him for all your webdesign needs.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Meta",
@@ -56,20 +56,48 @@ export const services = [
     title: "Web Development",
   },
   {
-    quote:"Get your app or web application completed with the help of React.",
-    title: "React Development",
+    quote:"Get your app or web application completed with the help of MEAN stack.",
+    title: "MEAN Development",
   },
   {
-    quote:"I'll create a new Wordpress website or redesign your previous one.",
-    title: "Wordpress Development",
+    quote:"I'll create a software or redesign your previous one.",
+    title: "Software Development",
   },
 ];
 
 export const skills = [
+  "MongoDB",
+  "Express.js",
+  "Angular.js",
+  "Node.js",
   "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "Wordpress",
-  "Material UI",
+  "JAVA",
+  "Python",
+  "Data Structures & Algorithms",
+];
+export const education =[
+  {
+    course: "Degree",
+    specialization: "BCA",
+    institute: "Pragya Degree College",
+    board:"Osmania University",
+    year:"2022",
+    percentage:"8.0",
+  },
+  {
+    course: "Intermediate",
+    specialization: "M.P.C",
+    institute: "Narayan Junior College, Guntakal",
+    board:"Board of Intermediate Education",
+    year:"2019",
+    percentage:"7.9",
+  },
+  {
+    course: "CBSE",
+    specialization: "10th",
+    institute: "Kendriya Vidyalaya, Guntakal",
+    board:"Central Board of Secondary Education",
+    year:"2017",
+    percentage:"9.2",
+  },
 ];
